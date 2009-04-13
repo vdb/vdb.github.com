@@ -11,7 +11,7 @@ layout: nil
  <id>http://vdb.github.com/</id>
  <author>
    <name>vdb</name>
-   <email>vdb20090410@ya.ru</email>
+   <email>vdb20090410 at ya.ru</email>
  </author>
 
  {% for post in site.posts %}
